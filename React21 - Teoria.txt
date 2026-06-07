@@ -1,0 +1,3 @@
+import './style.css' wczytuje style dla całej strony. 
+import styles from './style.module.css' zapisujemy do zmiennej, 
+bo klasy CSS są dostępne jako właściwości obiektu, np. styles.button.
